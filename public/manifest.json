@@ -1,0 +1,13 @@
+{
+    "name": "Insta-like PWA",
+    "short_name": "ClonInsta",
+    "start_url": "/index.html",
+    "scope": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "5682D5",
+    "descriptipn":"ClonInsta - Intsa, but different!",
+    "dir":"ltr",
+    "lang":"en-US",
+    "orientation":"potrait-primary"
+}
