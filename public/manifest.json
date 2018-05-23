@@ -42,7 +42,7 @@
     "scope": ".",
     "display": "standalone",
     "background_color": "#fff",
-    "theme_color": "# 3f51b5",
+    "theme_color": "#3f51b5",
     "descriptipn":"ClonInsta - Intsa, but different!",
     "dir":"ltr",
     "lang":"en-US",
