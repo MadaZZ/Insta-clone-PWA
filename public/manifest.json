@@ -1,13 +1,50 @@
 {
     "name": "Insta-like PWA",
     "short_name": "ClonInsta",
+    "icons" :[
+        {
+            "src":"/src/images/icons/app-icon-48x48.png",
+            "type":"img/png",
+            "sizes":"48x48"
+        },
+        {
+            "src":"/src/images/icons/app-icon-96x96.png",
+            "type":"img/png",
+            "sizes":"96x96"
+        },
+        {
+            "src":"/src/images/icons/app-icon-144x144.png",
+            "type":"img/png",
+            "sizes":"144x144"
+        },
+        {
+            "src":"/src/images/icons/app-icon-192x192.png",
+            "type":"img/png",
+            "sizes":"192x192"
+        },
+        {
+            "src":"/src/images/icons/app-icon-256x256.png",
+            "type":"img/png",
+            "sizes":"256x256"
+        },
+        {
+            "src":"/src/images/icons/app-icon-384x384.png",
+            "type":"img/png",
+            "sizes":"384x384"
+        },
+        {
+            "src":"/src/images/icons/app-icon-512x512.png",
+            "type":"img/png",
+            "sizes":"512x512"
+        } 
+    ],
     "start_url": "/index.html",
     "scope": ".",
     "display": "standalone",
     "background_color": "#fff",
-    "theme_color": "5682D5",
+    "theme_color": "# 3f51b5",
     "descriptipn":"ClonInsta - Intsa, but different!",
     "dir":"ltr",
     "lang":"en-US",
-    "orientation":"potrait-primary"
+    "orientation":"portrait-primary"
 }
